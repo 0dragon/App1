@@ -1,0 +1,12 @@
+// Copyright (c) Microsoft Corporation. All rights reserved.
+// Licensed under the MIT License. See LICENSE in the project root for license information.
+
+namespace App1
+{
+    [default_interface]
+    runtimeclass Page2 : Microsoft.UI.Xaml.Controls.Page
+    {
+        Page2();
+        Int32 MyProperty;
+    }
+}
